@@ -110,3 +110,7 @@
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Machine Learning / AI**: PyTorch, TensorFlow, Hugging Face
 - **Visualization / Tools**: Power BI, Tableau, GitHub, VS Code
+
+## References
+- 박규동 교수님
+  광운대학교 정보융합학부 교수
